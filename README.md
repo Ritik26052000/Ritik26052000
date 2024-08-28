@@ -11,7 +11,7 @@
 📍 Location: [Kanpur Uttar Pradesh, India]
 
 ## Portfolio
-Check out my portfolio: [https://your-username.github.io/](https://your-username.github.io/)
+Check out my portfolio: [https://your-username.github.io/](https://Ritik26052000.github.io/)
 
 ## Socials
 - 💼 LinkedIn: [www.linkedin.com/in/ritik-sonwani-son](https://www.linkedin.com/in/your-linkedin-profile/)
